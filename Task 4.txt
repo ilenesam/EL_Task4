@@ -1,0 +1,7 @@
+Task 4
+
+Created an Ecommerce Table in MYSQL V8 Fiddle, Ecommerce table contains 
+3 Sub tables: Orders, Customers, Products
+All necessary records are inserted into particular tables for proper execution of the program and creation of the tables 
+Lastly by learning via youtube I've used queries for extraction of data from the tables.
+Link of the entire webpage is pasted in my GitHub for checking purposes.
